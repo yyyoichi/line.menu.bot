@@ -1,4 +1,4 @@
-const ACCESS_TOKEN = "DUn98UVUe43yannAB8UiJl+TN2+H3e/fwRZfrH1/VtbkquB+wAdptnvJS9qmhvu8rW6FrbOQNkywKkCXXE0daNV2vezs9m8vPEZqEo8/SooREAoc53aE8yDuuF8UwilhSnm8tpS02tuVh60xg+lt5wdB04t89/1O/w1cDnyilFU="// => 【】も削除！
+const ACCESS_TOKEN = ""// => 【】も削除！
 const SPREAD_SHEET = SpreadsheetApp.getActiveSpreadsheet();
 
 //スプレッドシートを所定の書式に変更する
